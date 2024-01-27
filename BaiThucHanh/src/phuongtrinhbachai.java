@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import java.lang.Math;
 public class phuongtrinhbachai {
         public static void main(String[] args) {
             double a,b,c,x1,x2,delta;
